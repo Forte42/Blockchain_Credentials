@@ -29,7 +29,7 @@ The digital credentials created through this platform are meant to represent lif
 
 ---
 
-**The preferred method for using this application is to proceed to [this link](https://blockchaincredentials.herokuapp.com/). Import a new Ethereum wallet address into your MetaMask extension and supply it this private key: 245cf72c4e86d2eb6c5bffdd8df6d565f40534572bd95f8b76937bb75e61d72a. Use this address when interacting with the application.**
+~~The preferred method for using this application is to proceed to [this link](https://blockchaincredentials.herokuapp.com/). Import a new Ethereum wallet address into your MetaMask extension and supply it this private key: 245cf72c4e86d2eb6c5bffdd8df6d565f40534572bd95f8b76937bb75e61d72a. Use this address when interacting with the application.~~ We're having issues with heroku, for now the app will have to be built locally.
 
 ---
 
